@@ -40,6 +40,7 @@ Now utilizing Docker
 ## Usage
     
 To use, visit https://vast-jade-swallow.cyclic.app/ 
+aws: skyfa-LoadB-1FTYZ9NJ9TXGS-2212532b3d8b197b.elb.us-west-2.amazonaws.com:8080
 
 Screenshots: 
 ![homepage](public/assets/screenshots/homepage.PNG)
